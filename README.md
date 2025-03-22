@@ -1,4 +1,4 @@
-#Live Demo
+### Live Demo
 [Visit the deployed site](https://smart-image-uploader.netlify.app/)
 
 # Getting Started with Create React App
