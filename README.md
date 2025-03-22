@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Feature and Technologies
+
+React Hooks: useState, useRef for state & DOM management.
+React Webcam: Used for camera access & image capture.
+React Icons: FaUpload, FaCamera, FaTrash for UI icons.
+CSS Modules: Styled using ImageUploader.css.
